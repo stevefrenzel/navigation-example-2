@@ -26,6 +26,10 @@ nav ul {
   align-items: center;
 }
 
+#logo:hover a {
+  background: #fabb16;
+}
+
 [aria-current='page'] {
   background: lightsalmon;
 }
