@@ -1,2 +1,3 @@
-# navigation-example-2
-Example for an accessible navigation where the content wraps
+# Navigation with no sub menus and wrapping
+
+Example for an accessible navigation where the content wraps.
